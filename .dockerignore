@@ -1,0 +1,12 @@
+# El archivo de compras no debe quedar dentro de la imagen
+compras.csv
+*.csv
+
+target/
+.git/
+.github/
+.idea/
+.vscode/
+*.iml
+docker-compose.yml
+README.md
